@@ -39,9 +39,9 @@ Belarisian State University, Faculti of International Relations, Department of C
 
 - VS Code;
 - HTML, CSS3;
-- JavaScript Basics
-- Git, GitHub
-- Abode Photoshop, Figma
+- JavaScript Basics;
+- Git, GitHub;
+- Abode Photoshop, Figma.
 
 ### Language and languge courses:
 
