@@ -1,1 +1,12 @@
 #Aleksey Mikhlai
+Maritel Status: Married
+
+Date of Birth: 27th Oktober 1988
+
+Nationality: Belarus
+
+Contact Address: Minsk, Belarus
+
+Mobile: +375 33 322-96-30
+
+Email: smikhlai@yandex.ru
