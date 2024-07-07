@@ -1,6 +1,6 @@
 body{background-color: rgba(109, 169, 204, 0.726); font-size: 20px; margin: 0 auto; max-width: 1200px;}
 section{height: 25%;}
-.sec1{width: 100%; background-color: rgb(138, 245, 154); width: 100%; margin: 0px;}
+.sec1{height: 25%; width: 100%; background-color: rgb(138, 245, 154);}
 .h1{background-color: rgb(82, 197, 99); text-align: center;border: 2px solid; border-color: black; border-width: 0px 0px 2px; font-style: inherit; font-size: 40px; }
 .b1{padding: 3px;}
 .education{background-color: rgb(163, 241, 175); height: 10%;}
