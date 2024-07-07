@@ -1,4 +1,4 @@
-body{background-color: rgba(109, 169, 204, 0.726); height: 1000px; font-size: 20px;}
+body{background-color: rgba(109, 169, 204, 0.726); font-size: 20px; margin: 0 auto; max-width: 1200px;}
 section{height: 25%;}
 .sec1{width: 100%; background-color: rgb(138, 245, 154); width: 100%; margin: 0px;}
 .h1{background-color: rgb(82, 197, 99); text-align: center;border: 2px solid; border-color: black; border-width: 0px 0px 2px; font-style: inherit; font-size: 40px; }
@@ -14,3 +14,5 @@ section{height: 25%;}
 .interests{background-color: hsl(34, 86%, 71%); height: 15%;}
 .int{background-color: burlywood; border: solid black; border-width: 0px 0px 2px; font-style: inherit;font-size: 22px; padding: 3px;}
 .in{padding: 3px;}
+footer{background-color: aquamarine; padding-left: 20px;}
+.rsslogo{height: 50px; width: 50px;}
